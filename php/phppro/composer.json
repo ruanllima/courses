@@ -1,0 +1,20 @@
+{
+    "name": "miral/phppro",
+    "description": "php-pro",
+    "autoload": {
+        "files": [
+            "app/helpers/constants.php"
+        ],
+        "psr-4": {
+            "app\\":"app"
+        }
+    },
+    "authors": [
+        {
+            "name": "ruanllima",
+            "email": "ruanlimafn@gmail.com"
+        }
+    ],
+    "require": {}
+    
+}
