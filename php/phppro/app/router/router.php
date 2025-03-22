@@ -70,7 +70,6 @@ function router()
 
     if(!empty($matchedUri)){
         return controller($matchedUri, $params);
-        
     }
 
     throw new Exception('Algo deu errado');

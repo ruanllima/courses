@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>HEllow</h1>
+    <h1>ESSE É O CODIIGO DO HOME.PHP</h1>
 </body>
 </html>
